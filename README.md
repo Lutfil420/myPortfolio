@@ -128,6 +128,10 @@ I am a Senior Lecturer at Universiti Tenaga Nasional (UNITEN) specializing in AI
 
 - Industrial IoT (IIoT) Developer  
 
+<br>
+[![Watch the video](https://img.youtube.com/vi/IQJL3htsDyQ/maxresdefault.jpg)](https://youtu.be/IQJL3htsDyQ)
+
+### [Can You Fool A Self Driving Car?](https://youtu.be/IQJL3htsDyQ)
  
 
 ## 📢 Connect with Me  
