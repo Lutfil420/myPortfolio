@@ -21,7 +21,10 @@ I am a Senior Lecturer at Universiti Tenaga Nasional (UNITEN) specializing in AI
 
 - Cybersecurity & Networking: Kali Linux, Wireshark, VPN, Network Security  
 
-- Renewable Energy & Smart Grids: AI-based energy forecasting, AMI Analytics, Power Systems  
+- Renewable Energy & Smart Grids: AI-based energy forecasting, AMI Analytics, Power Systems
+
+<br>
+![](/assets/img/)
 
  
 
