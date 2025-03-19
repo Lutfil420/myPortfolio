@@ -52,6 +52,7 @@ I am a Senior Lecturer at Universiti Tenaga Nasional (UNITEN) specializing in AI
  
 
 ### Core Researcher @ Institute of Sustainable Energy (HICoE) (2025 - 2027)  
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 - Developed Perovskite solar cells with 15% efficiency in collaboration with Ritsumeikan University, Japan.  
 
