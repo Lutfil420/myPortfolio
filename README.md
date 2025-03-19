@@ -24,7 +24,8 @@ I am a Senior Lecturer at Universiti Tenaga Nasional (UNITEN) specializing in AI
 - Renewable Energy & Smart Grids: AI-based energy forecasting, AMI Analytics, Power Systems
 
 <br>
-![](/assets/img/)
+![Car](/assets/img/ae86.png)
+</br>
 
  
 
