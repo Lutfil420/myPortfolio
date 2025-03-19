@@ -1,5 +1,14 @@
-# Lutfil Hadi
+title: lutfil Hadi
 
+logo: /assets/img/prajindra-removebg-preview-Photoroom.jpg
+
+description: Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
+
+#show_downloads: true
+
+theme: jekyll-theme-minimal
+
+# Test
  
 
 #### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
